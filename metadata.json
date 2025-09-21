@@ -1,0 +1,5 @@
+{
+  "name": "Voronoi Tool",
+  "description": "An interactive web application for generating and visualizing Voronoi diagrams. Users can add, move, and remove points, generate point patterns like circles and grids, and customize the visual output. The app supports pan and zoom for easy navigation.",
+  "requestFramePermissions": []
+}

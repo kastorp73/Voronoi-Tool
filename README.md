@@ -28,7 +28,7 @@ This is a powerful, interactive web-based tool for generating and visualizing Vo
   - **Voxelize**: Snaps the generated diagram to a grid, creating a pixelated effect.
   - **Cull Redundant**: Intelligently removes points that are fully surrounded by neighbors of the same material, optimizing the diagram.
 - **History Management**: Unlimited undo and redo capabilities for worry-free editing.
-- **Custom Materials**: Assign up to 8 different materials (colors) to points to create distinct regions.
+- **Role-Based Materials**: Assign materials for "External", "Border", and "Internal" roles to automatically color generated shapes and streamline manual editing.
 - **Import & Export**: Save your work as a JSON file and load it back in later.
 
 ## How to Use
@@ -37,8 +37,8 @@ This is a powerful, interactive web-based tool for generating and visualizing Vo
     - **Pan & Zoom (Default)**: Drag to pan, use the mouse wheel to zoom.
     - **Edit Points**:
         - **Drag** a point to move it.
-        - **Double-click** on the canvas to add a new point.
-        - **Single-click** a point to change it to the currently selected material.
+        - **Double-click** on the canvas to add a new point (uses the 'Border' material).
+        - **Single-click** a point to change its material to the 'Border' material.
         - **`Alt` + Click** a point to delete it.
     - **Add Shape (Circle, Grid, Polygon)**: A preview of the shape will follow your cursor.
         - **Click** to place the shape and generate the points.
