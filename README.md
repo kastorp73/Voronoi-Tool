@@ -2,9 +2,7 @@
 
 This is a powerful, interactive web-based tool for generating and visualizing Voronoi diagrams. Built with vanilla JavaScript, HTML, and Tailwind CSS, it allows for dynamic creation and manipulation of Voronoi sites directly in the browser.
 
-### [View the Live Demo](https://raw.githack.com/USERNAME/REPOSITORY/main/index.html)
-*(Replace `USERNAME/REPOSITORY` with your GitHub username and repository name)*
-
+### [View the Live Demo](https://raw.githack.com/kastorp73/Voronoi-Tool/main/index.html)
 
 
 ## Features
