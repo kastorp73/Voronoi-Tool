@@ -4,7 +4,7 @@ This is a powerful, interactive web-based tool for generating and visualizing Vo
 
 ### [View the Live Demo](https://raw.githack.com/kastorp73/Voronoi-Tool/main/index.html)
 
-![Voronoi Tool Screenshot](screenshot.png)
+![Voronoi Tool Screenshot](screenshot.jpg)
 
 **DOCUMENTATION GENERATED WITH GOOGLE AI STUDIO**
 
